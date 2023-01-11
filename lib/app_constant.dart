@@ -1,6 +1,7 @@
-class AppConstant {
+class AppConstants {
   static const String baseUrl = 'https://api.themoviedb.org/3';
-  static const String imageW500 = 'https://image.tmdb.org/t/p/w500';
-  static const String imageOriginal = 'https://image.tmdb.org/t/p/original';
-  static const String apiKey = '41985d94d0f419cd140a835bd69994cb';
+  static const String imageUrlW500 = 'https://image.tmdb.org/t/p/w500';
+  static const String imageUrlOriginal = 'https://image.tmdb.org/t/p/original';
+  static const String apiKey = 'd8e957a69af1be921c9c4466f5661e87';
+
 }
